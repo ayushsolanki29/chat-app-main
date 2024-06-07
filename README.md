@@ -46,7 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Socket.io Team**: For enabling real-time communication.
 
 ## sample images
-![img](https://github.com/ayushsolanki29/chat-app-main/tree/main/screenhsot/1.png?raw=true)
-![img](https://github.com/ayushsolanki29/chat-app-main/tree/main/screenhsot/2.png?raw=true)
-![img](https://github.com/ayushsolanki29/chat-app-main/tree/main/screenhsot/3.png?raw=true)
-![img](https://github.com/ayushsolanki29/chat-app-main/tree/main/screenhsot/4.png?raw=true)
+![img](https://raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/1.png?raw=true)
+![img](raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/2.png?raw=true)
+![img](raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/3.png?raw=true)
+![img](raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/4.png?raw=true)
