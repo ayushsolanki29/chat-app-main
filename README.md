@@ -44,3 +44,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **React Team**: For providing a powerful front-end library.
 - **Socket.io Team**: For enabling real-time communication.
+
+## sample images
+![img](https://github.com/ayushsolanki29/chat-app-main/blob/main/1.png?raw=true)
+![img](https://github.com/ayushsolanki29/chat-app-main/blob/main/2.png?raw=true)
+![img](https://github.com/ayushsolanki29/chat-app-main/blob/main/3.png?raw=true)
+![img](https://github.com/ayushsolanki29/chat-app-main/blob/main/4.png?raw=true)
