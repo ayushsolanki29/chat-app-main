@@ -47,6 +47,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## sample images
 ![img](https://raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/1.png?raw=true)
-![img](raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/2.png?raw=true)
-![img](raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/3.png?raw=true)
-![img](raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/4.png?raw=true)
+![img](https://raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/2.png?raw=true)
+![img](https://raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/3.png?raw=true)
+![img](https://raw.githubusercontent.com/ayushsolanki29/chat-app-main/main/screenhsot/4.png?raw=true)
